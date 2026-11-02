@@ -21,6 +21,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vishvesharma/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/vishvesharma/leetcode-solutions/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -30,6 +31,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vishvesharma/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/vishvesharma/leetcode-solutions/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
@@ -52,6 +54,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vishvesharma/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/vishvesharma/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
