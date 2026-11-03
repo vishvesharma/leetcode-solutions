@@ -10,6 +10,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0198-house-robber](https://github.com/vishvesharma/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/vishvesharma/leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/vishvesharma/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
@@ -30,6 +31,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0198-house-robber](https://github.com/vishvesharma/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/vishvesharma/leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Trie
 |  |
@@ -88,10 +90,15 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vishvesharma/leetcode-solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vishvesharma/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
