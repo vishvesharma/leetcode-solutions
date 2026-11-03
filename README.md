@@ -22,6 +22,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vishvesharma/leetcode-solutions/tree/master/0139-word-break) |
+| [1143-longest-common-subsequence](https://github.com/vishvesharma/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Dynamic Programming
 |  |
@@ -33,6 +34,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0322-coin-change](https://github.com/vishvesharma/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/vishvesharma/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -101,4 +103,8 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/vishvesharma/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
