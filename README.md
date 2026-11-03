@@ -21,6 +21,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/vishvesharma/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/vishvesharma/leetcode-solutions/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/vishvesharma/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
@@ -28,6 +29,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishvesharma/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/vishvesharma/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/vishvesharma/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vishvesharma/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0213-house-robber-ii) |
