@@ -9,6 +9,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0064-minimum-path-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/vishvesharma/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vishvesharma/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/vishvesharma/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -93,6 +94,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/vishvesharma/leetcode-solutions/tree/master/0322-coin-change) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Knapsack Problem
@@ -118,6 +120,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -133,10 +136,12 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
