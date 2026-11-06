@@ -32,6 +32,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0064-minimum-path-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vishvesharma/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vishvesharma/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/vishvesharma/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/vishvesharma/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vishvesharma/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -71,6 +72,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishvesharma/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/vishvesharma/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0973-k-closest-points-to-origin](https://github.com/vishvesharma/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -115,4 +117,16 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/vishvesharma/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/vishvesharma/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/vishvesharma/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
