@@ -17,6 +17,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vishvesharma/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/vishvesharma/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/vishvesharma/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0684-redundant-connection](https://github.com/vishvesharma/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vishvesharma/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/vishvesharma/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Knapsack Problem
 |  |
@@ -128,6 +130,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vishvesharma/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/vishvesharma/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
