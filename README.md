@@ -98,6 +98,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | ------- |
 | [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/vishvesharma/leetcode-solutions/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/vishvesharma/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vishvesharma/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -143,6 +144,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/vishvesharma/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vishvesharma/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -150,10 +152,12 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/vishvesharma/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/vishvesharma/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
