@@ -6,6 +6,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vishvesharma/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/vishvesharma/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vishvesharma/leetcode-solutions/tree/master/0198-house-robber) |
@@ -36,6 +37,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vishvesharma/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vishvesharma/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vishvesharma/leetcode-solutions/tree/master/0072-edit-distance) |
@@ -239,4 +241,8 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | ------- |
 | [0743-network-delay-time](https://github.com/vishvesharma/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/vishvesharma/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
