@@ -20,6 +20,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0994-rotting-oranges](https://github.com/vishvesharma/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1584-min-cost-to-connect-all-points](https://github.com/vishvesharma/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+| [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0787-cheapest-flights-within-k-stops](https://github.com/vishvesharma/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/vishvesharma/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+| [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +117,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0787-cheapest-flights-within-k-stops](https://github.com/vishvesharma/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vishvesharma/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/vishvesharma/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Knapsack Problem
 |  |
@@ -142,6 +146,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vishvesharma/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vishvesharma/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Tree
 |  |
 | ------- |
@@ -167,6 +172,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0743-network-delay-time](https://github.com/vishvesharma/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vishvesharma/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/vishvesharma/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -175,6 +181,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0684-redundant-connection](https://github.com/vishvesharma/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/vishvesharma/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -231,4 +238,5 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vishvesharma/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
