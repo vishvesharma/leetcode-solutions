@@ -160,17 +160,21 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vishvesharma/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/vishvesharma/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vishvesharma/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/vishvesharma/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/vishvesharma/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/vishvesharma/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/vishvesharma/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/vishvesharma/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vishvesharma/leetcode-solutions/tree/master/0207-course-schedule) |
