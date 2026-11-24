@@ -15,6 +15,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0213-house-robber-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/vishvesharma/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishvesharma/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vishvesharma/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -74,6 +75,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Sorting
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishvesharma/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0973-k-closest-points-to-origin](https://github.com/vishvesharma/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Heap (Priority Queue)
@@ -248,4 +250,5 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | ------- |
 | [0045-jump-game-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vishvesharma/leetcode-solutions/tree/master/0055-jump-game) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishvesharma/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
