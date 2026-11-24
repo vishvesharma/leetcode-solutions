@@ -6,6 +6,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vishvesharma/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/vishvesharma/leetcode-solutions/tree/master/0139-word-break) |
@@ -37,6 +38,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vishvesharma/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vishvesharma/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -244,5 +246,6 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vishvesharma/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
