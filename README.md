@@ -275,4 +275,12 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0503-next-greater-element-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vishvesharma/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/vishvesharma/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
