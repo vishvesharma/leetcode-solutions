@@ -20,6 +20,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0518-coin-change-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vishvesharma/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/vishvesharma/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/vishvesharma/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/vishvesharma/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
@@ -259,4 +260,12 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0055-jump-game](https://github.com/vishvesharma/leetcode-solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/vishvesharma/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishvesharma/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vishvesharma/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vishvesharma/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
