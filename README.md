@@ -28,6 +28,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1584-min-cost-to-connect-all-points](https://github.com/vishvesharma/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0787-cheapest-flights-within-k-stops](https://github.com/vishvesharma/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/vishvesharma/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/vishvesharma/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -283,4 +285,24 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0052-n-queens-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+## Bitmask
+|  |
+| ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+## Bipartite Graph
+|  |
+| ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 <!---LeetCode Topics End-->
