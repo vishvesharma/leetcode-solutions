@@ -9,6 +9,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0045-jump-game-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vishvesharma/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vishvesharma/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/vishvesharma/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vishvesharma/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -270,12 +271,14 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vishvesharma/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vishvesharma/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/vishvesharma/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vishvesharma/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vishvesharma/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/vishvesharma/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -310,4 +313,8 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vishvesharma/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
