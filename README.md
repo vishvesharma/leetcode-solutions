@@ -17,6 +17,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0416-partition-equal-subset-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vishvesharma/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishvesharma/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0473-matchsticks-to-square](https://github.com/vishvesharma/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0503-next-greater-element-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -56,6 +57,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0322-coin-change](https://github.com/vishvesharma/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vishvesharma/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/vishvesharma/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vishvesharma/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/vishvesharma/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -281,6 +283,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [0473-matchsticks-to-square](https://github.com/vishvesharma/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 ## Algorithm X
 |  |
 | ------- |
@@ -288,10 +291,12 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Bit Manipulation
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/vishvesharma/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/vishvesharma/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 ## Hungarian Algorithm
 |  |
