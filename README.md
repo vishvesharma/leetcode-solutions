@@ -33,6 +33,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [1584-min-cost-to-connect-all-points](https://github.com/vishvesharma/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0907-sum-of-subarray-minimums](https://github.com/vishvesharma/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/vishvesharma/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Trie
 |  |
 | ------- |
@@ -291,6 +293,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | ------- |
 | [0052-n-queens-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0473-matchsticks-to-square](https://github.com/vishvesharma/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Algorithm X
 |  |
 | ------- |
@@ -300,23 +303,28 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/vishvesharma/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Bitmask
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/vishvesharma/leetcode-solutions/tree/master/0473-matchsticks-to-square) |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Hungarian Algorithm
 |  |
 | ------- |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Successive Shortest Path Algorithm
 |  |
 | ------- |
 | [1879-minimum-xor-sum-of-two-arrays](https://github.com/vishvesharma/leetcode-solutions/tree/master/1879-minimum-xor-sum-of-two-arrays) |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -338,4 +346,20 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishvesharma/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
+## Perfect Matching
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
+## Minimum-Cost Flow
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
+## Flow Network
+|  |
+| ------- |
+| [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
 <!---LeetCode Topics End-->
