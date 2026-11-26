@@ -6,6 +6,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vishvesharma/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vishvesharma/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -266,6 +267,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vishvesharma/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vishvesharma/leetcode-solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/vishvesharma/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -332,4 +334,8 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vishvesharma/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
