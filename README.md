@@ -12,6 +12,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0064-minimum-path-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vishvesharma/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/vishvesharma/leetcode-solutions/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishvesharma/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/vishvesharma/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vishvesharma/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -90,6 +91,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishvesharma/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/vishvesharma/leetcode-solutions/tree/master/0704-binary-search) |
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
