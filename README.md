@@ -98,6 +98,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vishvesharma/leetcode-solutions/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/vishvesharma/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishvesharma/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0973-k-closest-points-to-origin](https://github.com/vishvesharma/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -120,6 +121,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/vishvesharma/leetcode-solutions/tree/master/0148-sort-list) |
 | [0973-k-closest-points-to-origin](https://github.com/vishvesharma/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -354,6 +356,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishvesharma/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0148-sort-list](https://github.com/vishvesharma/leetcode-solutions/tree/master/0148-sort-list) |
 ## Matching (Graph)
 |  |
 | ------- |
@@ -370,4 +373,12 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 |  |
 | ------- |
 | [1947-maximum-compatibility-score-sum](https://github.com/vishvesharma/leetcode-solutions/tree/master/1947-maximum-compatibility-score-sum) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vishvesharma/leetcode-solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/vishvesharma/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
