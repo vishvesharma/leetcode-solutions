@@ -25,6 +25,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 | [0503-next-greater-element-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/vishvesharma/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/vishvesharma/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/vishvesharma/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/vishvesharma/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vishvesharma/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/vishvesharma/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -89,6 +90,7 @@ My Data Structures &amp; Algorithms solutions in Python and C++
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/vishvesharma/leetcode-solutions/tree/master/0704-binary-search) |
 | [1268-search-suggestions-system](https://github.com/vishvesharma/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/vishvesharma/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
